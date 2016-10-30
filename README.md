@@ -1,7 +1,7 @@
 # Docker-Nagios
 Docker image for Nagios
 
-Nagios Core 4.2.1 running on Ubuntu 16.04 LTS with NagiosGraph & NRPE
+Nagios Core 4.2.2 running on Ubuntu 16.04 LTS with NagiosGraph & NRPE
 
 ### Configurations
 Nagios Configuration lives in /opt/nagios/etc
